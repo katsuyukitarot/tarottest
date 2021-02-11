@@ -36,5 +36,6 @@ body {
 }
 
 .tarot_photo{
+    width: 300px;
     height: auto;
 }
